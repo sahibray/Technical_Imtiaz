@@ -3,3 +3,5 @@ Emoji
 Typing Options
 different colors
 vibrate
+darkmod
+video call
